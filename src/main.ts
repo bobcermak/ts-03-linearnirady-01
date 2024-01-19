@@ -15,4 +15,5 @@ while (n_pocet <= 44) {
       continue
     }
     console.log(c_nextNumber)
-  }
+    
+}
